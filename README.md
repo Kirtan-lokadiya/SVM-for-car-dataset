@@ -11,7 +11,7 @@ To run the code follow the below steps:
 pip install numpy
 ```
 ```
-pip instll pandas
+pip install pandas
 ```
 ```
 pip install matplotlib
